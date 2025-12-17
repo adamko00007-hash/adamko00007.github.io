@@ -1,1 +1,4 @@
-duet-premium.pl
+Host / Name:   www
+Type:          CNAME
+Value / Target: duet-premium.github.io
+TTL:           Auto
